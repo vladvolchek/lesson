@@ -1,0 +1,8 @@
+.about {
+  background-color: green;
+  background-image: url(/img/ice.jpeg);
+  padding: 120px;
+}
+.about-text {
+  color: blue;
+}
